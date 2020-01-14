@@ -1,17 +1,17 @@
-# Sistema Administrativo
+# Administrative systems
 
-Sistema administrativo de um food truck  feito usando C# e SQL, feito como Trabalho de Conclusão de Curso(TCC) do curso técnico em informática da Escola Técnica do Estado de São Paulo(ETEC).
-Foi usado Visual Studio e MySQL Workbench
+Administrative systems of a food truck  builded used C# and SQL, for undergraduate thesis of certificate in information technology at "ETEC de Nova Odessa"
+Softwares used: Visual Studio and MySQL Workbench
 
-> Tela de Boas Vindas
+> welcome-screen
 ![ProjectLogo](https://github.com/Luscahm/Sistema-Administrativo-CS/blob/master/Screenshots/IN%C3%8DCIO.PNG)
 
-> Caixa
+> Cash Flow
 ![ProjectLogo](https://github.com/Luscahm/Sistema-Administrativo-CS/blob/master/Screenshots/CAIXA.PNG)
 
-> Fornecedores
+> suppliers
 ![ProjectLogo](https://github.com/Luscahm/Sistema-Administrativo-CS/blob/master/Screenshots/FORNECEDORES.PNG)
 
-> Estatística
+> statistics
 ![ProjectLogo](https://github.com/Luscahm/Sistema-Administrativo-CS/blob/master/Screenshots/ESTATÍSTICA.PNG)
 
